@@ -1,25 +1,41 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+title: "Antonio Carlos Rodrigues"
+subtitle: "Data Scientist | Educator"
 image: profile.jpg
+from: markdown+emoji
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
   links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:antoniocarlos.rodrigues@ufjf.br
+    - icon: person-lines-fill
+      text: Lattes
+      href: http://lattes.cnpq.br/1322627918739691
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/antonioacr
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/rodrigues-acr/
 ---
 
-A little bit about me and my life.
+I am an Assistant Professor at the Federal University of Juiz de Fora with a PhD in Business Administration from the Federal University of Minas Gerais. I specialize in Supply Chain. I also work as a consultant, helping businesses optimize their performance. Outside of work, I’m a dedicated runner and have completed two marathons. I enjoy taking care of my plants, experimenting with cocktail recipes, and relaxing with my dachshund, Heinz.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+**São Paulo University** \| São Paulo, SP :brazil: Specialization in Business Administration \| 2021 - 2023
+
+**Federal University of Minas Gerais** \| Belo Horizonte, MG :brazil: Ph.D. Business Administration \| 2016 - 2020 Sandwich doctorate at Butler University \| Indianapolis, IN :us:
+
+**Federal University of Minas Gerais** \| Belo Horizonte, MG :brazil: M.Sc in Business Administration \| 2011 - 2013
+
+**Federal University of Viçosa** \| Viçosa, MG :brazil: B.S. in Business Administration \| 2006 - 2011
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+**Federal University of Juiz de Fora** \| Adjunct Professor \| 2015 - Present :brazil:
+
+**Federal University of Jequitinhonha e Mucuri** \| Assistant Professor \| 2013 - 2015 :brazil:
+
+**Federal University of Viçosa** \| Temporary Professor \| 2012 - 2013 :brazil:
