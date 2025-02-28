@@ -1,0 +1,25 @@
+---
+title: "Gestão de Operações 2"
+description: "Universidade Federal de Juiz Fora"
+author: "Antonio Rodrigues"
+date: "2025-1"
+categories:
+  - Science
+  - Technology
+affiliation: "Universidade Federal de Juiz de Fora"
+---
+
+## Class 1
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+
+xaringanExtra::embed_xaringan(
+  "/presentation/data_wrangling.html",
+  ratio = "16:9",
+  border = TRUE,
+  margin = "0 auto"
+)
+```
+
+
+

@@ -1,0 +1,7 @@
+---
+title: Teaching
+listing: 
+  contents: /
+  type: grid
+ 
+---

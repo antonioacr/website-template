@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+## Select Publications
+
+RODRIGUES, A. C.; MACEDO, R. C.; MARTINS, R. S. Technological drivers of dry port efficiency in Brazil. **Revista de Gestão da USP**, v. 1, p. 10-11, 2023. <https://doi.org/10.1108/REGE-03-2021-0052>
+
+RODRIGUES, A. C.; MARTINS, R. S. The Effects of Dependence on Brazilian Third-Party Logistics Satisfaction. **Revista de Administração Contemporânea**, v. 26, n. 1, p. e200380, 2022. <https://doi.org/10.1590/1982-7849rac2022200380.en>
+
+RODRIGUES, A. C. Response Surface Analysis: A Tutorial for Examining Linear and Curvilinear Effects. **Revista de Administração Contemporânea**, v. 25, n. 6, p. e200293, 6 abr. 2021. <https://doi.org/10.1590/1982-7849rac2021200293.en>
+ 
+LAGE, M. L. C., RODRIGUES, A. C. Pandelivery: Reflections on black delivery app workers experiences during COVID-19 in Brazil. **Gender, Work & Organization**, 28( S2), 434– 445, 2021. <https://doi.org/10.1111/gwao.12604>
+
+RODRIGUES, A. C.; MARTINS, R. S.; WANKE, P. F. ; SIEGLER, J. . Efficiency of Specialized 3PL Providers in an Emerging Economy. **International Journal of Production Economics**, v. 205C, p. 163-178, 2018. <https://doi.org/10.1016/j.ijpe.2018.09.012>

@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "Home"
+  title: "Antonio Carlos Rodrigues"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "Made in Quarto"
+  page-footer: "Made with R and Quarto"
   navbar:
-    right:
-      - text: Home
-        href: index.qmd
-      
+    left:
+      - href: blog/index.qmd
+      - href: teaching/index.qmd
+      - href: publications.qmd
 format:
   html:
     theme: [cosmo, styles.scss]

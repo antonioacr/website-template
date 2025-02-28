@@ -20,11 +20,11 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/rodrigues-acr/
 ---
 
-I am an Assistant Professor at the Federal University of Juiz de Fora with a PhD in Business Administration from the Federal University of Minas Gerais. I specialize in Supply Chain. I also work as a consultant, helping businesses optimize their performance. Outside of work, I’m a dedicated runner and have completed two marathons. I enjoy taking care of my plants, experimenting with cocktail recipes, and relaxing with my dachshund, Heinz.
+I am an Assistant Professor at the Federal University of Juiz de Fora with a PhD in Business Administration from the Federal University of Minas Gerais. I teach courses on program logistic, operations and supply chain management. I also work as a consultant, helping businesses optimize their performance. Outside of work, I’m a dedicated runner and have completed two marathons. I enjoy taking care of my plants, and relaxing in my home.
 
 ## Education
 
-**São Paulo University** \| São Paulo, SP :brazil: Specialization in Business Administration \| 2021 - 2023
+**São Paulo University** \| São Paulo, SP :brazil: Specialization in Data Science \| 2021 - 2023
 
 **Federal University of Minas Gerais** \| Belo Horizonte, MG :brazil: Ph.D. Business Administration \| 2016 - 2020 Sandwich doctorate at Butler University \| Indianapolis, IN :us:
 
